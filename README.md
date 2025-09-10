@@ -1,109 +1,63 @@
-# Hi there! I'm Saurabh Yadav 👋
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%26+Frontend+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies;Turning+Ideas+into+Reality!)](https://git.io/typing-svg)
 
-</div>
+# 🚀 Saurabh Yadav
+### AI Engineer | Software Developer | Tech Innovator
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Saurabhyadavastro&color=brightgreen&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Saurabhyadavastro?style=social)](https://github.com/Saurabhyadavastro)
-[![GitHub stars](https://img.shields.io/github/stars/Saurabhyadavastro?style=social)](https://github.com/Saurabhyadavastro)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Innovation+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Saurabhyadavastro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-> **"Designing beautiful digital experiences that solve real problems"**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hello there! I'm **Saurabh Yadav**, a passionate **ECS (Electronics Computer Science Engineering)** student with a love for turning ideas into reality through code. I specialize in **UI/UX Design** and **Frontend Development**, creating intuitive and beautiful interfaces that make a difference.
+- 🔭 Currently working on **AI-powered surveillance systems** and **financial fraud detection**
+- 🌱 Exploring advanced **Machine Learning** and **Computer Vision** technologies
+- 💡 Passionate about creating solutions that make a real-world impact
+- 🎯 Focused on **AI applications** in security and automation
+- 📫 Reach me at: **[Your Email]**
+- ⚡ Fun fact: I build AI systems that can see and think!
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="400"/>
-
-- 🎓 **B.Tech in Computer Science** from Vikram University
-- 🌱 Currently mastering **MERN Stack** and advancing my UI/UX design skills
-- 💼 Designing for **CODE_D_CODE Society** and working on exciting projects
-- 🚀 Always exploring new technologies and design trends
-- 🌍 Based in **Ujjain, India**
-- 💡 **Mission**: Creating digital solutions that inspire and innovate
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Frontend & Design
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔧 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🗄️ Backend & Database
+### Web Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🛠️ Tools & Technologies
+### Databases & Tools
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Saurabhyadavastro&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhyadavastro&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhyadavastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saurabhyadavastro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💻 Weekly Development Breakdown
-
-```text
-UI/UX Design     █████████████▓░░░░░░░░   55.32 %
-Frontend Dev     ████████▒░░░░░░░░░░░░░   32.14 %
-Python & DSA     ████░░░░░░░░░░░░░░░░░░   12.54 %
-```
-
----
-
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
 <div align="center">
 
@@ -111,40 +65,40 @@ Python & DSA     ████░░░░░░░░░░░░░░░░░
 <tr>
 <td width="50%">
 
-### 🌐 CODE_D_CODE Website
-**Tech Stack:** React, CSS3, JavaScript  
-A modern, responsive website for the CODE_D_CODE Society featuring interactive animations and user-friendly design.
+### 🤖 AI Fraud Detection System
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Saurabhyadavastro&repo=AI-For-Flagging-Suspisious-Transactions&theme=tokyonight)](https://github.com/Saurabhyadavastro/AI-For-Flagging-Suspisious-Transactions)
 
-[🔗 View Project](https://github.com/Saurabhyadavastro/code-d-code-website)
+**Tech Stack:** Python, Machine Learning  
+**Description:** AI-powered system for detecting suspicious financial transactions using advanced ML algorithms.
 
 </td>
 <td width="50%">
 
-### 💫 Mera Bestie
-**Tech Stack:** HTML, CSS, JavaScript  
-An engaging web application with beautiful UI/UX design and smooth animations.
+### 👁️ Surveillance AI
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Saurabhyadavastro&repo=surveillance-AI&theme=tokyonight)](https://github.com/Saurabhyadavastro/surveillance-AI)
 
-[🔗 View Project](https://github.com/Saurabhyadavastro/mera-bestie)
+**Tech Stack:** Python, Computer Vision  
+**Description:** Intelligent surveillance system with real-time object detection and behavior analysis.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏏 LSG Fan Page
-**Tech Stack:** HTML, CSS  
-A dedicated website for Lucknow Super Giants cricket team fans with latest news and player profiles.
+### 🆔 ID Card Generator - SoET
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Saurabhyadavastro&repo=ID-Card-Generator-Page-For-SoET-Vikram-University&theme=tokyonight)](https://github.com/Saurabhyadavastro/ID-Card-Generator-Page-For-SoET-Vikram-University)
 
-[🔗 View Project](https://github.com/Saurabhyadavastro/LSG-FAN-PAGE)
+**Tech Stack:** HTML, CSS, JavaScript  
+**Live Demo:** [View Project](https://id-card-generator-page-for-so-et-vi.vercel.app)
 
 </td>
 <td width="50%">
 
-### 💼 Personal Portfolio
-**Tech Stack:** HTML, CSS, JavaScript  
-My personal portfolio showcasing projects, skills, and professional journey as a software engineer.
+### 🆔 ID Card Generator - ICS
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Saurabhyadavastro&repo=ICS-ID-CARD-GENERATOR-PAGE&theme=tokyonight)](https://github.com/Saurabhyadavastro/ICS-ID-CARD-GENERATOR-PAGE)
 
-[🔗 View Project](https://github.com/Saurabhyadavastro/Portfolio)
+**Tech Stack:** HTML, CSS, JavaScript  
+**Live Demo:** [View Project](https://ics-id-card-generator-page.vercel.app)
 
 </td>
 </tr>
@@ -154,15 +108,68 @@ My personal portfolio showcasing projects, skills, and professional journey as a
 
 ---
 
-## 🎯 Current Focus & Goals
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-| 🌟 **Current Goals** | 🚀 **Learning** | 💼 **Working On** |
-|:---:|:---:|:---:|
-| Master MERN Stack | Advanced React Patterns | CODE_D_CODE Projects |
-| UI/UX Mastery | Node.js & Express | Personal Portfolio |
-| Open Source Contribution | MongoDB & Databases | Design Systems |
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saurabhyadavastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhyadavastro&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saurabhyadavastro&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saurabhyadavastro&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurabhyadavastro&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Saurabh's Tech Journey))
+    AI & ML
+      Computer Vision
+      Deep Learning
+      Neural Networks
+      NLP
+    Web Development
+      Frontend
+      Backend
+      Full Stack
+    Innovation Projects
+      Fraud Detection
+      Surveillance Systems
+      Automation Tools
+    Future Goals
+      Advanced AI Research
+      Open Source Contributions
+      Tech Leadership
+```
 
 </div>
 
@@ -172,41 +179,10 @@ My personal portfolio showcasing projects, skills, and professional journey as a
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.saurabhyadavsky.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-yadav-3b4371169)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saurabhyadavastro)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Saurabh69848832)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100005234598010)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurabhyadavastro&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Saurabhyadavastro/Saurabhyadavastro/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -214,18 +190,18 @@ My personal portfolio showcasing projects, skills, and professional journey as a
 
 <div align="center">
 
-## 📫 Let's Connect and Build Something Amazing Together!
+### 💫 "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
-### 💡 Fun Facts About Me:
-- 🎨 I believe good design is invisible
-- ⚡ I'm always excited about new challenges
-- 🌟 I love combining creativity with technology
-- 🚀 Currently exploring the world of full-stack development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
+</div>
 
-**Thanks for visiting my profile!** ⭐️ **Star some repositories if you find them interesting!**
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Connect%20and%20Build%20Something%20Amazing!&fontSize=40&fontAlignY=65&desc=Saurabh%20Yadav%20|%20UI/UX%20Designer%20&%20Frontend%20Developer&descAlignY=51&descAlign=62"/>
+<div align="center">
 
-</div> 
+**⭐ Star my repositories if you find them interesting!**
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Saurabhyadavastro&label=VISITORS&labelColor=%23000&countColor=%230A0209)](https://visitorbadge.io/status?path=Saurabhyadavastro)
+
+</div>
